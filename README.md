@@ -4,6 +4,7 @@ The aim of this project is to find an appropriate model to predict the diamondâ€
 
 ## Content
 This repository contains following documents:
- * Three Jupyter notebooks contains three machine learning modeling I used to predict the price
+ * Dataset I download from Kaggle.com and add more data from public dataset
+ * Three notebooks contains three machine learning modeling I used to predict the price
  * The final report I complete to expalin the pipe line of how I finish this porject
  * Addition materials
